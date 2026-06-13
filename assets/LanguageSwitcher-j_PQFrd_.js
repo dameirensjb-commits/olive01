@@ -1,0 +1,5 @@
+import{u as o,j as e}from"./index-ql7TiPHx.js";import{G as a}from"./globe-Bobf6tSE.js";import"./createLucideIcon-NWdWkr2U.js";function l(){const{lang:t,setLang:n}=o(),s=()=>{n(t==="zh"?"en":"zh")};return e.jsxs("button",{"code-path":"src/components/LanguageSwitcher.tsx:12:5",onClick:s,className:`fixed bottom-6 right-6 z-[70] w-12 h-12 rounded-full bg-[#2D6B5A] text-[#F4F1EA] 
+                 shadow-lg hover:shadow-xl hover:scale-110 active:scale-95
+                 transition-all duration-300 flex items-center justify-center
+                 border-2 border-[#A8D5C7]/30`,title:t==="zh"?"Switch to English":"切换到中文",children:[e.jsx(a,{"code-path":"src/components/LanguageSwitcher.tsx:20:7",className:"w-5 h-5"}),e.jsx("span",{"code-path":"src/components/LanguageSwitcher.tsx:21:7",className:`absolute -top-1 -right-1 bg-[#B8965E] text-white text-[9px] font-bold 
+                       w-5 h-5 rounded-full flex items-center justify-center`,children:t==="zh"?"EN":"中"})]})}export{l as default};
